@@ -1,0 +1,22 @@
+.mat-card-header{
+
+    background: black;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+
+.mat-card{
+
+    width: 300px;
+}
+
+
+.mat-card-content{
+    background: orange;
+
+}
+.container {
+    display: flex; /* or inline-flex */
+  }
